@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611824126895",
+    "project_id": "walltutorial-f7708",
+    "storage_bucket": "walltutorial-f7708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611824126895:android:b167a31339b7985e837d5a",
+        "android_client_info": {
+          "package_name": "com.example.social_meadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611824126895-77hfhl5q9h4086unoov8eb9ci1usb6bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFhfsMi3kTCZwgF-KcmpDfPQnS_mpwRm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611824126895-77hfhl5q9h4086unoov8eb9ci1usb6bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
